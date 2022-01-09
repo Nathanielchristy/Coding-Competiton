@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+
+}
+body{
+    text-align: center;
+}
+nav a{
+    text-decoration: none !important;
+    font-family: Montserrat !important;
+    font-weight: 600;
+    letter-spacing: 4px !important;
+    font-size: 25px !important;
+    margin: 0 10px !important;
+    color: #fff !important;
+}
+
+
+.login{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 50px;
+    background-image: url(../images/fAEbUH.webp);
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.login-page{
+    max-width: 60%;
+    margin: auto;
+}
+
+
+.footerli{
+    letter-spacing: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+.particle-js{
+    width: 100%;
+    height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.particles-js-canvas-el{
+    position: absolute;
+
+}
